@@ -8,4 +8,4 @@ Git is a version control software system that tracks changes in a given set of f
 ## What are the benefits of having multiple branches?
 
 ## What is the difference between Git and GitHub?
-Git is a version control software system
+Git is a version control software system. Git-hub is a cloud-based hosting service for managing Git repositories.
